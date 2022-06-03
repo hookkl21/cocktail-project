@@ -1,6 +1,14 @@
-#### React Router Fix
+#### Cocktail Project
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+- Using the cocktailDB API to fetch the data of cocktail from database
+- User can search and find their favorite cocktail
+- Once you click detail, it pulls out information page
+- Within the page, user will find the info of specific drink i.e. ingredients and instruction on how to make that specify cocktail
+- This project uses the React.js libraries
+
+#### React Router
+
+Using React Router For this Project
 
 #### CRA Fix
 
